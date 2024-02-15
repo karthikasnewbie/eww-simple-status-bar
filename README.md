@@ -1,5 +1,6 @@
-# Screenshots
+# 1-Screenshot
 ![20240214_19h36m25s_grim](https://github.com/karthikasnewbie/eww-simple-status-bar/assets/115386407/f01a9d73-ab17-446a-bc1c-19b39c4057ce)
+# 2-screenshot
 ![20240214_19h33m53s_grim](https://github.com/karthikasnewbie/eww-simple-status-bar/assets/115386407/bbc645c3-29aa-47c7-b6e9-d8ec236745d9)
 
 # eww-simple-status-bar
