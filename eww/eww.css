@@ -1,0 +1,20 @@
+.bar {
+    color:white;
+    background-color: black;
+    font-size: 14px;
+    font-weight: bolder;
+}   
+.battery {
+	margin: 0px 29px 0px 0px;
+	color: red;
+}
+
+.volume {
+	margin: 0px 0px 0px 25px;
+	color: orange;
+}
+
+.wifi {
+	color: cyan;
+}
+ 
