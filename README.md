@@ -1,3 +1,6 @@
+# Screenshot
+![20240214_19h36m25s_grim](https://github.com/karthikasnewbie/eww-simple-status-bar/assets/115386407/f01a9d73-ab17-446a-bc1c-19b39c4057ce)
+
 # eww-simple-status-bar
 Simple status bar using eww.
 
